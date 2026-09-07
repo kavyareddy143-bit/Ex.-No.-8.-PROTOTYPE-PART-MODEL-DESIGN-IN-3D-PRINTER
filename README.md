@@ -46,14 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-# rendered output:
-<img width="547" height="192" alt="image" src="https://github.com/user-attachments/assets/a2b18093-bc00-46f7-8719-6025a4df6a23" />
-
-# Fusion 360:
-<img width="570" height="322" alt="image" src="https://github.com/user-attachments/assets/0a1766a6-1b31-4661-95d3-347db84d075c" />
-
-# ultimate cura:
-<img width="588" height="337" alt="image" src="https://github.com/user-attachments/assets/d4b26fc0-2d0d-4299-a8e8-d8d3db6ad270" />
+<img width="1600" height="885" alt="image" src="https://github.com/user-attachments/assets/dab8f556-9a44-4a66-8161-2727a0a48a90" />
 
 ### Name:Annapueddy kavya
 ### Register Number:212225240011
